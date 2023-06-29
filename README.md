@@ -16,8 +16,8 @@ This is the first structure to be built when jumpstarting a new off-grid communi
 
 ## Concept
 
-Typically if someone buys land somewhere remote (off-grid & without utilities), they first bring-in are diesel generators for the tools needed to begin construction.
+Typically if someone buys land somewhere remote (off-grid & without utilities), they first bring-in diesel generators to power the tools needed to begin construction.
 
-This is an alternative that would permit constructing a new off-grid community or homestead using solar energy.
+The "Genesis Booth" is an alternative that would permit constructing a new off-grid community or homestead using renewable, solar energy.
 
 The expectation is that people move-in with camping gear. They purchase four 1 meter x 2 meter solar panels and spend their first weeks building the Genesis Booth. After the booth is complete, they have a weather-proof shed for storing tools and a covered workspace to continue construction.
