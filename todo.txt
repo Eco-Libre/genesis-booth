@@ -1,0 +1,10 @@
+TODO:
+
+ * add vertical supports for roof overhang
+ * convert overhang roof texture to thatch
+ * convert main roof to metal panels
+ * add locker doors on one side of external wall
+ * add garage door on other side of the external wall
+ * add shelves inside structure
+ * add hole in 2m side of external wall for PV electrical cables
+ * add wooden studs to exterior wall
