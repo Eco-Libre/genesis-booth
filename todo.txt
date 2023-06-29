@@ -7,4 +7,6 @@ TODO:
  * add garage door on other side of the external wall
  * add shelves inside structure
  * add hole in 2m side of external wall for PV electrical cables
+ * add vents and fans for battery compartment
+ * add A/C electrical outlet to both exterior walls
  * add wooden studs to exterior wall
