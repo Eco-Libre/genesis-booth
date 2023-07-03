@@ -8,8 +8,7 @@ jobs:
  
   build_docs_job:
 
-    permissions:
-      actions: write
+    permissions: write-all
 
     runs-on: ubuntu-latest
     container: debian:buster-slim
