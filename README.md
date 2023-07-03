@@ -2,7 +2,7 @@
 
 The Eco-Libre Genesis Booth is a simple storage shed with >1 kW of PV solar panels on the roof.
 
-<img src="images/genesis-booth_2023.06.png?raw=true" alt="Screenshot of CAD file"></a>
+<img src="docs/images/genesis-booth_2023.06.png?raw=true" alt="Screenshot of CAD file"></a>
 
 This is the first structure to be built when jumpstarting a new off-grid community. It provides the power, storage, and outdoor workshop space needed to build-out the community.
 
