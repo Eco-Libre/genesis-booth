@@ -1,21 +1,49 @@
-.. helloWorld documentation master file, created by
-   sphinx-quickstart on Fri Jul 17 10:38:59 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. |nbsp| unicode:: 0xA0
+   :trim:
 
-Welcome to helloWorld's documentation!
-======================================
+Welcome to Eco-Libre's Genesis Booth documentation!
+===================================================
+
+Welcome! This is the official documentation for the Eco-Libre Genesis Booth.
+
+.. figure:: /images/genesis-booth_2023.06.png
+  :align: center
+
+  CAD Design of the Eco-Libre Genesis Booth
+
+.. toctree::
+   :caption: What is the Genesis Booth?:
+
+   introduction/index
+   faq
+   theory/index
+   praxis/index
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Build Instructions:
 
-   autodoc
+   build/index
+   build/foundation
+   build/frame
+   build/lockers
+   build/walls
+   build/doors
+   build/bikes
+   build/roof
+   build/electrical
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contributing:
 
-Indices and tables
-==================
+   dev/index
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: More:
+
+   support
+   changelog
+   license
+   attribution
